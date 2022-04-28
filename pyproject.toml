@@ -5,7 +5,7 @@ description = ""
 authors = ["Alex Crouzen <alexander@crouzen.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.8.0,<=3.9"
+python = ">=3.8.0,<=3.9.2"
 "discord.py" = "^1.7.3"
 APScheduler = "^3.9.1"
 parse = "^1.19.0"
